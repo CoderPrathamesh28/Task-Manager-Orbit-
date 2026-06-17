@@ -1,6 +1,7 @@
-fastapi
-uvicorn
-pyjwt
+fastapi==0.137.1
+uvicorn==0.49.0
+pyjwt==2.13.0
 passlib[bcrypt]>=1.7.4
-bcrypt>=4.0.0
+bcrypt==3.2.2
 cryptography
+websockets==16.0
